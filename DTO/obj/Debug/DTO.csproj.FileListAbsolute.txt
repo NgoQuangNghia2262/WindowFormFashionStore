@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\FashionStore\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\FashionStore\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FashionStore\DTO\obj\Debug\DTO.dll
+C:\Users\admin\Desktop\FashionStore\DTO\obj\Debug\DTO.pdb
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\BLL.dll
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\BLL.pdb
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\FashionStore\DTO\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\FashionStore\DTO\obj\Debug\DTO.csproj.CopyComplete
